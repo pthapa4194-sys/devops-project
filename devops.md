@@ -1,0 +1,1 @@
+DevOps is a software development approach that combines development and IT operations to improve collaboration, automate workflows, and deliver applications faster and more reliably.
